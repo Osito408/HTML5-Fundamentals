@@ -10,9 +10,9 @@
   .penguin {
 
     /* Only change code below this line */
-    --penguin-skin: gray;
+    --penguin-skin: black;
     --penguin-belly: white;
-    --penguin-beak: orange;
+    --penguin-beak: yellow;
     /* Only change code above this line */
 
     position: relative;
@@ -206,3 +206,5 @@
     <div class="beak-bottom"></div>
   </div>
 </div>
+</body>
+</html>
